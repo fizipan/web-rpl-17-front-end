@@ -6,7 +6,7 @@
   background-position: 0 -70px;
 
   @include media-breakpoint-down(md) {
-    height: 550px;
+    height: 600px;
     background-position: -100px 50px;
   }
 }

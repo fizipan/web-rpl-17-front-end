@@ -10856,7 +10856,7 @@ footer {
 
 @media (max-width: 991.98px) {
   footer {
-    height: 940px;
+    height: 950px;
   }
   footer img {
     margin-bottom: 10px;
@@ -10985,7 +10985,7 @@ footer ul li:last-child {
 
 @media (max-width: 991.98px) {
   .hero-img {
-    height: 550px;
+    height: 600px;
     background-position: -100px 50px;
   }
 }
@@ -11353,12 +11353,6 @@ footer ul li:last-child {
   }
 }
 
-@media (max-width: 991.98px) {
-  .rpl-tutorial .btn-tutorial {
-    margin-left: 32%;
-  }
-}
-
 .rpl-projects h5 {
   font-family: "Lora", sans-serif;
   font-weight: bold;
@@ -11594,37 +11588,55 @@ footer ul li:last-child {
 
 @media (max-width: 991.98px) {
   .rpl-bahasa .title-bahasa.html {
-    margin-left: 28px !important;
+    margin-left: 8px !important;
   }
 }
 
 @media (max-width: 991.98px) {
   .rpl-bahasa .title-bahasa.css {
-    margin-left: 37px !important;
+    margin-left: 15px !important;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .rpl-bahasa .title-bahasa.js {
+    margin-left: 1px !important;
   }
 }
 
 @media (max-width: 991.98px) {
   .rpl-bahasa .title-bahasa.php {
-    margin-left: 40px !important;
+    margin-left: 20px !important;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .rpl-bahasa .title-bahasa.bootstrap {
+    margin-left: 1px !important;
   }
 }
 
 @media (max-width: 991.98px) {
   .rpl-bahasa .title-bahasa.laravel {
-    margin-left: 30px !important;
+    margin-left: 10px !important;
   }
 }
 
 @media (max-width: 991.98px) {
   .rpl-bahasa .title-bahasa.jquery {
-    margin-left: 32px !important;
+    margin-left: 12px !important;
   }
 }
 
 @media (max-width: 991.98px) {
   .rpl-bahasa .title-bahasa.phyton {
-    margin-left: 30px !important;
+    margin-left: 11px !important;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .rpl-bahasa .title-bahasa.codeigniter {
+    margin-left: 0 !important;
   }
 }
 
@@ -11654,6 +11666,12 @@ footer ul li:last-child {
 
 .page-content-ebook .component-ebook .card {
   margin-bottom: 80px;
+}
+
+@media (max-width: 991.98px) {
+  .page-content-ebook .component-ebook .card {
+    margin-bottom: 40px;
+  }
 }
 
 .page-content-tutorial {

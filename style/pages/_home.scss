@@ -31,37 +31,55 @@
 
   .title-bahasa.html {
     @include media-breakpoint-down(md) {
-      margin-left: 28px !important;
+      margin-left: 8px !important;
     }
   }
 
   .title-bahasa.css {
     @include media-breakpoint-down(md) {
-      margin-left: 37px !important;
+      margin-left: 15px !important;
+    }
+  }
+
+  .title-bahasa.js {
+    @include media-breakpoint-down(md) {
+      margin-left: 1px !important;
     }
   }
 
   .title-bahasa.php {
     @include media-breakpoint-down(md) {
-      margin-left: 40px !important;
+      margin-left: 20px !important;
+    }
+  }
+
+  .title-bahasa.bootstrap {
+    @include media-breakpoint-down(md) {
+      margin-left: 1px !important;
     }
   }
 
   .title-bahasa.laravel {
     @include media-breakpoint-down(md) {
-      margin-left: 30px !important;
+      margin-left: 10px !important;
     }
   }
 
   .title-bahasa.jquery {
     @include media-breakpoint-down(md) {
-      margin-left: 32px !important;
+      margin-left: 12px !important;
     }
   }
 
   .title-bahasa.phyton {
     @include media-breakpoint-down(md) {
-      margin-left: 30px !important;
+      margin-left: 11px !important;
+    }
+  }
+
+  .title-bahasa.codeigniter {
+    @include media-breakpoint-down(md) {
+      margin-left: 0 !important;
     }
   }
 
